@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**jeslopcru/jeslopcru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer engineer and passionate about programming. I like traveling, miss walking through the city and I enjoy fooding. I am Test Driven Development advocate and I love Refactoring too. I like designing architectures and thinking about how to improve development workflows, but I enjoy getting my hands dirty. I am a friendly guy, always searching for new experiences and meeting new people.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: PHP, Go, more about testing, VueJS, Agile, Management 3.0.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with DDD, Hexagonal Architecture, event sourcing and K8S
+
+- 💬 Ask me about: software development, refactoring, SOLID Principles, PHP, Git,  agile,
+
+- 📫  How to know more about me: 
+  - [jesuslc.com](http://jesuslc.com)
+  - https://twitter.com/jeslopcru
+  - http://es.linkedin.com/in/jesuslc/
+
+
