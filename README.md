@@ -14,3 +14,11 @@ I am a computer engineer and passionate about programming. I like traveling, mis
   - http://es.linkedin.com/in/jesuslc/
 
 
+<h3>📈 My GitHub Stats</h3>
+<p align="center">
+<a href="https://github.com/jeslopcru/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeslopcru&theme=vue&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+</p>
+
+
