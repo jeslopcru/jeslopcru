@@ -12,6 +12,7 @@ I am a computer engineer and passionate about programming. I like traveling, mis
   - [jesuslc.com](http://jesuslc.com)
   - https://twitter.com/jeslopcru
   - http://es.linkedin.com/in/jesuslc/
+  - https://mas.to/@jeslopcru
 
 
 <h3>📈 My GitHub Stats</h3>
